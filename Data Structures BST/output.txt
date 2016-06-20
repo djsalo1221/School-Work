@@ -1,0 +1,25 @@
+
+The height of tree 0 is 4
+The shortest path to a leaf of tree 0 is 4
+Tree 0 is not balanced.
+Tree 0 is height balanced.
+
+The integer tree 0 is: 1   10   20   30   40   50   60   70   80   90   100   11
+0   120   130   140
+
+The integer tree 1 is: 1   10   20   40   50   60   70   80   90   100   110   1
+20   130   140
+
+The integer tree 2 is: 1   10   20   30   40   50   60   70   80   90   100   11
+0   120   130   140
+
+Integer tree 0 != Integer tree 1
+Integer tree 0 = Integer tree 2
+Integer tree 3 != Integer tree 4
+Integer tree 3 = Integer tree 5
+Integer tree 3 != Integer tree 6
+Integer tree 3 != Integer tree 7
+The height of tree 9 is 5
+The shortest path to a leaf of tree 9 is 5
+Tree 9 is not balanced.
+Tree 9 is not height balanced.

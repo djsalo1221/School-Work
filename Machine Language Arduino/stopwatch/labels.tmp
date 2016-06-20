@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega328P</DEVICE>
+ <WORKING_DIR>E:\stopwatch</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\stopwatch\stopwatch.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\stopwatch\stopwatch.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\stopwatch\stopwatch.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\stopwatch\stopwatch.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>E:\stopwatch\stopwatch.asm</FILE><LINE>61</LINE></main>
+  <string><FILE>E:\stopwatch\stopwatch.asm</FILE><LINE>122</LINE></string>
+  <string_loop><FILE>E:\stopwatch\stopwatch.asm</FILE><LINE>90</LINE></string_loop>
+  <here><FILE>E:\stopwatch\stopwatch.asm</FILE><LINE>101</LINE></here>
+  <UART_TX><FILE>E:\stopwatch\stopwatch.asm</FILE><LINE>104</LINE></UART_TX>
+  <RX_ISR><FILE>E:\stopwatch\stopwatch.asm</FILE><LINE>111</LINE></RX_ISR>
+ </LABELS>
+</ASSEMBLER_INFO>

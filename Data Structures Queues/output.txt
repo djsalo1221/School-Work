@@ -1,0 +1,19 @@
+
+Please enter the file name
+Lab5Data.txt
+Customer     Arrival         Service      Completing      Time
+Number        Time            Time            Time       Waited
+--------------------------------------------------------------------
+1          11:20 AM        11:20 AM        11:28 AM        0
+2          11:22 AM        11:28 AM        11:43 AM        6
+3          11:25 AM        11:43 AM        11:46 AM        18
+4          11:25 AM        11:46 AM        11:50 AM        21
+5          11:30 AM        11:50 AM        12:10 PM        20
+6          11:40 AM        12:10 PM        12:40 PM        30
+7          11:42 AM        12:40 PM        01:06 PM        58
+8          12:00 PM        01:06 PM        01:13 PM        66
+9          01:35 PM        01:35 PM        04:00 PM        0
+10         03:55 PM        04:00 PM        05:05 PM        5
+11         03:56 PM        05:05 PM        05:06 PM        69
+
+Average waiting time = 26.64

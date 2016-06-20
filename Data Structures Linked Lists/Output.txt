@@ -1,0 +1,87 @@
+Daniel Salo
+CS202 Lab 1 Output
+
+C:\Users\H115\Desktop\Lab_1b-2015-01-21\Lab 1b\Lab 1a>java Lab1
+Please enter the data file name:  StudentDataFile.txt
+
+
+Class lists 1 and 2 have the same contents
+Class lists 1 and 2 do NOT have the same address
+
+
+Class lists 1 and 3 have the same contents
+Class lists 1 and 3 do NOT have the same address
+
+
+This is the original class list 1:
+
+Busha, Michael M    CS      2.9
+Busha, Tracey M     IT      3.8
+Carr, Michael E     CS      1.9
+Carter, Mary L      MATH    1.5
+Casey, Gary F       HIST    3.8
+Daigle, Thomas R    IT      1.9
+Danise, Amy A       MATH    1.5
+Discawicz, Mark H   CS      3.9
+Farwell, Maria F    IT      2.7
+Finlay, Maureen G   ENGL    1.2
+Whittle, Kelly A    CS      1.8
+
+
+This is the class list 3:
+
+Busha, Michael M    CS      2.9
+Busha, Tracey M     IT      3.8
+Carr, Michael E     CS      1.9
+Carter, Mary L      MATH    1.5
+Casey, Gary F       HIST    3.8
+Daigle, Thomas R    IT      1.9
+Danise, Amy A       MATH    1.5
+Discawicz, Mark H   CS      3.9
+Farwell, Maria F    IT      2.7
+Finlay, Maureen G   ENGL    1.2
+Whittle, Kelly A    CS      1.8
+
+
+There are 4 CS majors in the class list 1.
+
+
+
+The highest GPA in list 1 is 3.9
+
+
+
+The first student in list 1 is Busha, Michael M    CS      2.9
+
+
+
+The second student in list 1 is Busha, Tracey M     IT      3.8
+
+
+
+The last student in list 1 is Whittle, Kelly A    CS      1.8
+
+
+
+The second last student in list 1 is Finlay, Maureen G   ENGL    1.2
+
+This is the list 1 after deletions:
+
+Busha, Tracey M     IT      3.8
+Carter, Mary L      MATH    1.5
+Casey, Gary F       HIST    3.8
+Daigle, Thomas R    IT      1.9
+Danise, Amy A       MATH    1.5
+Discawicz, Mark H   CS      3.9
+Finlay, Maureen G   ENGL    1.2
+
+
+This is the list 3 after all students with GPA < 2.0 deleted
+
+Busha, Michael M    CS      2.9
+Busha, Tracey M     IT      3.8
+Casey, Gary F       HIST    3.8
+Discawicz, Mark H   CS      3.9
+Farwell, Maria F    IT      2.7
+
+C:\Users\H115\Desktop\Lab_1b-2015-01-21\Lab 1b\Lab 1a>

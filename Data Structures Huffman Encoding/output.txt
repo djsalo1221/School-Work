@@ -1,0 +1,72 @@
+C:\Users\H115\Desktop\DanielSaloLab7>java Lab7
+Please enter the data file name:
+Lab7.data1
+Here is the code of each character:
+
+Character    Code
+==========================
+B             0
+D             11
+H             101
+X             100
+
+The encoded message is 1110101110100110001101011001011111110
+
+C:\Users\H115\Desktop\DanielSaloLab7>java Lab7
+Please enter the data file name:
+Lab7.data2
+Here is the code of each character:
+
+Character    Code
+==========================
+A             011
+B             1101
+C             11001
+D             10
+E             111
+F             11000
+G             00
+H             010
+
+The encoded message is 111011110011101101011101111010011100101111001110010101110
+0010101011000111010010011110100000111011110110011010001010001101000011101100010
+
+C:\Users\H115\Desktop\DanielSaloLab7>java Lab7
+Please enter the data file name:
+Lab7.data3
+Here is the code of each character:
+
+Character    Code
+==========================
+A             101
+B             0
+C             100
+D             11
+
+The encoded message is 1110101110100110001101011001011111110
+
+Encoded Message : 10100010010111110010010100100
+Decoded Message : ABBBCADDBBCABBC
+
+C:\Users\H115\Desktop\DanielSaloLab7>java Lab7
+Please enter the data file name:
+Lab7.data4
+Here is the code of each character:
+
+Character    Code
+==========================
+A             011
+B             1101
+C             11001
+D             10
+E             111
+F             11000
+G             00
+H             010
+
+The encoded message is 111011110011101101011101111010011100101111001110010101110
+0010101011000111010010011110100000111011110110011010001010001101000011101100010
+
+Encoded Message : 00010011001011111000110011101111110001010000000010011110110101
+11
+Decoded Message : GHAGDEFCBEFDDGGGHABDDE
